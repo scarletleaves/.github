@@ -1,6 +1,6 @@
 <div align="center">
 
-![logo](https://raw.githubusercontent.com/scarletleaves/.github/main/images/s1_256.png)
+![logo](https://raw.githubusercontent.com/scarletleaves/.github/main/images/sl_256.png)
 
 # scarletleaves.dev
 
