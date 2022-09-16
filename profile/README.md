@@ -8,5 +8,5 @@
 
 we write code for the terminal and other things, in style ✨
 
-[check out our site here](https://scarletleaves.dev)
+
 </div>
